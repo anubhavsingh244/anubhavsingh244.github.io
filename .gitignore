@@ -1,0 +1,19 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories (e.g., VS Code)
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment secrets
+*.env
+config.yml  # If you add local configs later
+
+# Large media (if you don't want to version them—upload manually)
+# *.mp4
+# *.mov
